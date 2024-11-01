@@ -1,0 +1,3 @@
+Nombre: Juan Nicolás Chaparro Rodríguez
+Edad: 18 años
+Aspiraciones respecto a la materia: La materia no la veo únicamente por ser obligatoria en el plan de estudios de ingeniería de sistemas, en mi caso, yo también la veo con gran gusto ya que mi motivación es entender y comprender diversos aspectos sobre la profesión de la ingeniería de sistemas y sé que la Programación Orientada a Objetos es fundamental para muchas de las ramas en las que se puede desempeñar un ingeniero de sistemas. En conclusión, mi mayor aspiración para la materia es comprender y ser super teso manejando todos los conceptos (o al menos la mayoría) de POO.
