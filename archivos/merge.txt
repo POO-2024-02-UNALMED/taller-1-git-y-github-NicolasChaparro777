@@ -1,3 +1,12 @@
+Primer merge:
+El error ocurrio ya que Github no te permite hacer commit de carpetas vacias.
+
+Segundo merge:
 Nombre: Juan Nicolás Chaparro Rodríguez
 Edad: 18 años
 Aspiraciones respecto a la materia: La materia no la veo únicamente por ser obligatoria en el plan de estudios de ingeniería de sistemas, en mi caso, yo también la veo con gran gusto ya que mi motivación es entender y comprender diversos aspectos sobre la profesión de la ingeniería de sistemas y sé que la Programación Orientada a Objetos es fundamental para muchas de las ramas en las que se puede desempeñar un ingeniero de sistemas. En conclusión, mi mayor aspiración para la materia es comprender y ser super teso manejando todos los conceptos (o al menos la mayoría) de POO.
+
+
+
+¿Por qué es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones?:
+Es importante ya que como pudimos observar en el ejercicio anterior, puede ocurrir un conflicto de fusión (en inglés es merge conflict) que ocurre cuando dos ramas diferentes generan cambios en un mismo archivo y Git no sabe cual de los dos cambios mantener. En pocas palabras Git se queda "confundido". Es por ello que siempre se recomienda trabajar y añadir cambios por fuera del repositorio principal y luego anexarlos para evitar este tipo de conflictos, o en su defecto, estar actualizando constantemente tu copia del repositorio en tu entorno local para saber qué más cambios se han hecho en ese archivo aparte de los que tú estás haciendo.
